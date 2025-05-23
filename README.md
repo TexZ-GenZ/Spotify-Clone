@@ -24,7 +24,7 @@ A full-stack Spotify-like music streaming application built using **Flutter** (c
 ### 🖥️ Frontend (Client)
 - [Flutter](https://flutter.dev/)
 - [Riverpod](https://riverpod.dev/)
-- [Hive](https://docs.hivedb.dev/)
+- [Hive](https://pub.dev/packages/hive_flutter/versions)
 - Dart
 
 ### 🖧 Backend (Server)
